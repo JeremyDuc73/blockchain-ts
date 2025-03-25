@@ -4,3 +4,12 @@
 /src/main.js
 /src/Transaction.js
 /src/Wallet.js
+
+dist/*
+dist
+
+.idea
+.idea/*
+
+node_modules
+node_modules/*
