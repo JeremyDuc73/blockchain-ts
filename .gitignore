@@ -1,0 +1,6 @@
+# Project exclude paths
+/src/Block.js
+/src/Blockchain.js
+/src/main.js
+/src/Transaction.js
+/src/Wallet.js
